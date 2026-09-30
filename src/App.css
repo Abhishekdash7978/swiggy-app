@@ -1,3 +1,20 @@
 *{
     font-family: 'Yantramanav', sans-serif;
 }
+.welcome-section {
+  text-align: center;
+  padding: 25px 20px;
+  background: #fff7ed;
+  margin: 10px 0 20px;
+}
+
+.welcome-section h1 {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+
+.welcome-section p {
+  font-size: 18px;
+  margin: 0;
+}

@@ -10,6 +10,12 @@ function App() {
   return (
     <div>
       <Navigate/>
+
+      <div className="welcome-section">
+        <h1>Welcome to Abhishek's Restaurant</h1>
+        <p>Delicious food, delivered with love ❤️</p>
+      </div>
+
       <OffersBanner/>
       <RestaurentChain/>
       <RestaurentOnline/>
